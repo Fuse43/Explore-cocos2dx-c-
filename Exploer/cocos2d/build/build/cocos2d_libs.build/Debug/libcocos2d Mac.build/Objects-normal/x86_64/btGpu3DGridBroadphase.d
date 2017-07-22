@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../cocos/platform/mac/cocos2d-prefix.pch \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.cpp \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuDefines.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedDefs.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedCode.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btQuickprof.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCache.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseInterface.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCallback.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedDefs.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedTypes.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btSimpleBroadphase.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedCode.h

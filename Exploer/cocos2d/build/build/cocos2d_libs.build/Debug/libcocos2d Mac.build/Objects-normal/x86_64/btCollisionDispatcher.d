@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../cocos/platform/mac/cocos2d-prefix.pch \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/external/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.cpp \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/external/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btDispatcher.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btPersistentManifold.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btTransform.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btQuaternion.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btQuadWord.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btManifoldPoint.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btTransformUtil.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//CollisionDispatch/btManifoldResult.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//CollisionDispatch/btCollisionObjectWrapper.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//CollisionDispatch/btCollisionObject.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btMotionState.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/external/bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btCollisionAlgorithm.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionShape.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCache.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseInterface.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCallback.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/LinearMath/btPoolAllocator.h \
+  /Users/World/Desktop/Coco/Exploer/cocos2d/build/../external/bullet/BulletCollision//CollisionDispatch/btCollisionConfiguration.h
